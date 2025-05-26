@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://media2.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif"/>
+  <img src="assets/banner.gif"/>
 </p>
-
 
 <h1 align="center">Olá, sou o Thiago Pinho 👋</h1>
 
@@ -26,6 +25,8 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"/>
+  <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
+
 </p>
 
 ---
