@@ -4,14 +4,17 @@
 
 <h1 align="center">Olá, sou o Thiago Pinho 👋</h1>
 
-<p align="center">Desenvolvedor mobile com foco em Flutter e Java.</p>
+<p align="center">
+  Aqui você encontra projetos que refletem minha evolução técnica em diferentes linguagens e frameworks.
+</p>
+
 
 ---
 
 ## 🧠 Sobre mim
 
-- 🔭 Atualmente trabalhando com Flutter e Java em projetos mobile multiplataforma.
-- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/pinhothiago)
+- 🔍 Busco constantemente novas tecnologias para expandir meu repertório técnico.
+- 📫 Para contato profissional, acesse meu <a href="https://www.linkedin.com/in/pinhothiago">LinkedIn</a>.
 
 ---
 
@@ -25,7 +28,6 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"/>
-  <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
 
 </p>
 
@@ -36,6 +38,20 @@
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=pinhothiago&show_icons=true&theme=radical&hide_border=true" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinhothiago&layout=compact&theme=radical&hide_border=true"/>
+</p>
+
+---
+
+## 📚 O que estou estudando
+
+- 🌐 **Angular** – Desenvolvimento web moderno com TypeScript.
+- 🧩 **Kotlin Multiplatform & Jetpack Compose** – Criando apps multiplataforma com UI declarativa.
+- ☕ **Spring Boot (Java)** – Desenvolvimento backend ágil e escalável.
+
+<p align="center">
+  <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img alt="Spring Boot" src="https://img.shields.io/badge/spring_boot-%2366CC6C.svg?style=for-the-badge&logo=springboot&logoColor=white"/>
 </p>
 
 ---
