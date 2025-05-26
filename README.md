@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.gif"/>
+  <img src="banner.gif"/>
 </p>
 
 <h1 align="center">Olá, sou o Thiago Pinho 👋</h1>
