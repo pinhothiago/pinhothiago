@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="banner.gif"/>
-</p>
-
 <h1 align="center">Olá, sou o Thiago Pinho 👋</h1>
 
 <p align="center">
