@@ -1,66 +1,61 @@
-<h1 align="center">Olá, sou o Thiago Pinho 👋</h1>
-
+<h1 align="center">Thiago Pinho</h1>
 <p align="center">
-  Aqui você encontra projetos que refletem minha evolução técnica em diferentes linguagens e frameworks.
+  Mobile Developer · Flutter & Android (Kotlin/Java) · Linux Enthusiast
 </p>
 
+---
+
+## About Me
+
+I develop mobile apps using Flutter and Kotlin/Android, with a particular interest in how devices connect and interact with things like Bluetooth, Wi-Fi Direct, and peer-to-peer communication.
+
+I spend time experimenting with networking, automated testing, and backend services that make mobile features work reliably from start to finish.
 
 ---
 
-## 🧠 Sobre mim
-
-- 🔍 Busco constantemente novas tecnologias para expandir meu repertório técnico.
-- 📫 Para contato profissional, acesse meu <a href="https://www.linkedin.com/in/pinhothiago">LinkedIn</a>.
-
----
-
-## 🛠️ Tecnologias & Ferramentas
+## Tools & Technologies
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"/>
-
 </p>
 
 ---
 
-## 📈 Estatísticas do GitHub
+## Currently Exploring
+
+Right now I'm spending time on:
+
+- Building simple APIs using **Spring Boot**
+- Writing and organizing tests for both **Flutter** and **Android**
+- Peer-to-peer networking using **Wi-Fi Direct** and sockets
+- Frontend workflows and tooling with **Angular**
+
+---
+
+## GitHub Activity
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=pinhothiago&show_icons=true&theme=radical&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinhothiago&layout=compact&theme=radical&hide_border=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=pinhothiago&show_icons=true&theme=dark&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinhothiago&layout=compact&theme=dark&hide_border=true"/>
 </p>
 
 ---
 
-## 📚 O que estou estudando
-
-- 🌐 **Angular** – Desenvolvimento web moderno com TypeScript.
-- 🧩 **Kotlin Multiplatform & Jetpack Compose** – Criando apps multiplataforma com UI declarativa.
-- ☕ **Spring Boot (Java)** – Desenvolvimento backend ágil e escalável.
+## Contribution Graph
 
 <p align="center">
-  <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img alt="Spring Boot" src="https://img.shields.io/badge/spring_boot-%2366CC6C.svg?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pinhothiago&theme=merko"/>
 </p>
 
 ---
 
-## 🐍 Contribuições Recentes
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pinhothiago&theme=dracula"/>
-</p>
-
----
-
-## 🔗 Conecte-se comigo
+## Connect with me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pinhothiago">
